@@ -1,7 +1,3 @@
-Aqui está um exemplo de como poderia ser a documentação no arquivo `README.md` para o seu projeto:
-
----
-
 # Flutter Scroll Animation
 
 Este é um projeto pessoal desenvolvido em Flutter com o objetivo de estudar e reproduzir animações dinâmicas baseadas no scroll de uma ListView. O projeto inclui animações que afetam a **AppBar** e a **BottomNavigationBar**, inspirado no comportamento encontrado no aplicativo "Bíblia Sagrada Áudio + Offline".
@@ -66,7 +62,3 @@ Este projeto foi inspirado no aplicativo **Bíblia Sagrada Áudio + Offline**, q
 ## 📝 Licença
 
 Este projeto é de código aberto e está disponível sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Se precisar de alguma modificação ou adaptação no texto, é só avisar! 🚀
