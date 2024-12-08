@@ -44,7 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
       offsetDown = interpolation;
     }
 
-    print("${_scrollController.offset}, $interpolation, $offsetDown, $isVisible");
+    // print("${_scrollController.offset}, $interpolation, $offsetDown, $isVisible");
     if(interpolation > offsetDown + 5) {
       isVisible = false;
     }else if (interpolation < interpolationOld){

@@ -18,17 +18,17 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(
         primaryColor: Colors.black,
         scaffoldBackgroundColor: Colors.black,
-        appBarTheme: AppBarTheme(
+        appBarTheme: const AppBarTheme(
           color: Colors.black,
           iconTheme: IconThemeData(
             color: Colors.white
           )
         ),
-        iconTheme: IconThemeData(
+        iconTheme: const IconThemeData(
             color: Colors.white
         ),
       ),
-      home: HomeScreen(),
+      home: const HomeScreen(),
     );
   }
 }
