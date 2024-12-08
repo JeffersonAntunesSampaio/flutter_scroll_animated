@@ -2,6 +2,8 @@
 
 Este é um projeto pessoal desenvolvido em Flutter com o objetivo de estudar e reproduzir animações dinâmicas baseadas no scroll de uma ListView. O projeto inclui animações que afetam a **AppBar** e a **BottomNavigationBar**, inspirado no comportamento encontrado no aplicativo "Bíblia Sagrada Áudio + Offline".
 
+Teste Aqui: [Aplicação Web](https://jeffersonantunessampaio.github.io/)
+
 ## 📸 Capturas de Tela
 <br>
 
